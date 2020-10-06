@@ -1,0 +1,143 @@
+/* body section */
+body{
+    background-color: #ef233c;
+}
+/* heading */
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+}
+p{
+  font-family: 'Ubuntu', cursive;
+  color: grey;
+}
+/* Title section */
+ #title{
+  background-color: #ef233c;
+  font-size: 120%;
+  font-family: 'Montserrat', sans-serif;
+}
+.nav-link{
+  font-size: 25px;
+}
+.navbar-brand{
+  font-size: 45px;
+  font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+  padding: 4% 11%
+}
+/* Feature section */
+#features{
+  background-color: white;
+  padding:6% 14%;
+  text-align:center;
+  font-size: 70%;
+}
+.fa-heartbeat{
+  margin:20px;
+  color: #ff595e;
+  font-size: 500%;
+}
+.fa-heartbeat:hover{
+  color:#ef233c;
+}
+.fa-user-check{
+  margin:20px;
+  color: #ff595e;
+  font-size: 500%;
+}
+.fa-user-check:hover{
+  color:#ef233c;
+}
+.fa-utensils{
+  margin:20px;
+  color: #ff595e;
+  font-size: 500%;
+}
+.fa-utensils:hover{
+  color:#ef233c;
+}
+/* Row section */
+.row{
+  font-size: 150%;
+}
+.btn-outline-light{
+  margin: 20px;
+}
+/* Testimonial section */
+#Testimonial{
+  background-color: #ef233c;
+  padding: 4% 15%;
+  margin: 30px;
+  text-align: center;
+  font-size: 150%;
+}
+.david{
+  width: 13%;
+  height:7%;
+  border-radius: 50%;
+    margin: 20px;
+}
+.lady{
+  width: 13%;
+  height: 7%;
+  border-radius: 50%;
+  margin: 20px;
+  text-align: center;
+}
+/* sponsors section */
+#sponsors{
+  padding: 2% 10%;
+  text-align: center;
+  background-color: #ef233c;
+}
+.img-sponsors{
+  width: 17%;
+  margin: 15px;
+}
+/* Pricing section */
+#pricing{
+  background-color: white;
+  text-align: center;
+  padding: 6% 10%;
+}
+h3{
+  font-size: 145%;
+}
+h4{
+  font-size: 250%;
+}
+h2{
+  font-size: 300%;
+}
+.btn-danger{
+  padding: 2% 12%;
+}
+/* Footer section */
+#footer{
+  padding: 7% 17%;
+  text-align: center;
+  line-height: 20px;
+}
+/* Bottom section */
+#bottom{
+  background-color: white;
+  padding: 6% 14%;
+  text-align: center;
+}
+.fa-facebook{
+  color:black;
+  margin:10px;
+  font-size: 150%;
+}
+.fa-linkedin{
+  color:black;
+  margin:10px;
+  font-size: 150%;
+}
+.fa-github{
+  color:black;
+  margin:10px;
+  font-size: 150%;
+}
